@@ -1,0 +1,23 @@
+{
+  "name": "trello-bug",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://MaximeNicole@github.com/MaximeNicole/trello-bug.git"
+  },
+  "keywords": [
+    "trello",
+    "bug"
+  ],
+  "author": "maxndev <maxime.nicole@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaximeNicole/trello-bug/issues"
+  },
+  "homepage": "https://github.com/MaximeNicole/trello-bug#readme",
+  "dependencies": {
+    "node-trello": "^1.1.2"
+  }
+}
